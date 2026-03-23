@@ -65,8 +65,8 @@ Du har angett felaktig e-postadress eller lösenord!
 
           <img src="https://uploads.onecompiler.io/442ssbwmc/44fzyrgz7/Pin.png" class="pin" alt="Pin">
           <img src="https://uploads.onecompiler.io/442ssbwmc/44fzyrgz7/Pin.png" class="pin2" alt="Pin">
-          <img src="https://uploads.onecompiler.io/442ssbwmc/44fzyrgz7/Pin.png" class="pin3" alt="Pin">
-          <img src="https://uploads.onecompiler.io/442ssbwmc/44fzyrgz7/Pin.png" class="pin4" alt="Pin">
+          <img src="https://uploads.onecompiler.io/442ssbwmc/44fzyrgz7/Pin.png" width="50" class="pin3" alt="Pin">
+          <img src="https://uploads.onecompiler.io/442ssbwmc/44fzyrgz7/Pin.png" width="50" class="pin4" alt="Pin">
         </div>
 
       </div>
